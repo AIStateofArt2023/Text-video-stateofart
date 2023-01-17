@@ -57,5 +57,14 @@ dataset used by imagen(Phenaki)-:
 
 
 
+# Cog-Video
+production of text-to-video, transformation of 9 billion parameters, and inheritance of a trained text-to-image model One of the first large-scale pretrained open-source text-to-video models, CogView2 has a multi-frame-rate hierarchical training technique and outperforms all currently available models.
+
+[Research paper](https://arxiv.org/pdf/2205.15868.pdf)
+
+[Website](https://github.com/THUDM/CogVideo)
+
+
+
 
 
