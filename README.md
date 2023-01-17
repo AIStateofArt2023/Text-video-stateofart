@@ -48,9 +48,11 @@ they didnt provided any link related to data othere tahna laion dataset
 An AI model called Phenaki can generate minutes of coherent video based on detailed, sequential text input.
 While Imagen Video focuses on quality, Phenaki prioritizes coherency and length. The system can turn paragraph-long prompts into films of an arbitrary length,
 
-[Research paper](https://phenaki.video/)
+[Research Paper](https://openreview.net/forum?id=vOEXS39nOF)
 
-[website](https://openreview.net/forum?id=vOEXS39nOF)
+[Website](https://phenaki.video/)
+
+
 
 dataset used by imagen(Phenaki)-:
 1. [Moment in time (MIT) Dataset](http://moments.csail.mit.edu/)
